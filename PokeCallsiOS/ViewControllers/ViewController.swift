@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PokemonViewController.swift
 //  PokeCallsiOS
 //
 //  Created by Mackenzie Wacker on 12/27/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PokemonViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
